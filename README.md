@@ -1,7 +1,7 @@
 # 🗳️ Exploitation de données électorales — Présidentielle 2022
 
 **Évaluation intermédiaire — Python pour la data science (mi-semestre 2026)**  
-ENSAE Paris / INSEE
+ENSAI / INSEE
 
 > Auteurs : **BANZOUZI MIAMPASSI Hermann** & **TCHATCHOU NJATCHA Neville**
 
